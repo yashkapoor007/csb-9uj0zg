@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://yashkapoor007.github.io/csb-9uj0zg/static/css/main.8fa97aae.css",
+    "main.js": "https://yashkapoor007.github.io/csb-9uj0zg/static/js/main.88264d86.js",
+    "index.html": "https://yashkapoor007.github.io/csb-9uj0zg/index.html",
+    "main.8fa97aae.css.map": "https://yashkapoor007.github.io/csb-9uj0zg/static/css/main.8fa97aae.css.map",
+    "main.88264d86.js.map": "https://yashkapoor007.github.io/csb-9uj0zg/static/js/main.88264d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa97aae.css",
+    "static/js/main.88264d86.js"
+  ]
+}
